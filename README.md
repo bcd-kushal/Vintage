@@ -6,6 +6,11 @@
 
 `Vintage` is a CSS+SCSS library for utility with templates 
 
+```bash
+npm i vintage-css
+npm i vintage-scss
+```
+
 - provides a collection of CSS styles & components to enhance the design and usability of web projects
 - offers a range of features to streamline development process
 
