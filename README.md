@@ -8,3 +8,13 @@
 
 - provides a collection of CSS styles & components to enhance the design and usability of web projects
 - offers a range of features to streamline development process
+
+<hr>
+
+## :book: License
+
+This project is licensed under the MIT License - see the <a href=''>LICENSE</a> file for details.
+
+<hr>
+
+© 2024 dev-kushalkumar
